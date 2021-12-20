@@ -1,7 +1,7 @@
 # Welcome to Blog Post!  
   
 Hi! I am **Maria Chowdhury**
-Roll:  **1703009** . This is my project of **CSE 3100 **.  
+Roll:  **1703009** . This is my project of **CSE 3100**.  
   
 ## LIVE PREVIEW  
 The project is also hosted on **Heroku** so it is accessible from everywhere.  
@@ -39,7 +39,7 @@ python manage.py runserver
 ```  
 After the server spins up, please go to [127.0.0.1:8000](http://127.0.0.1:8000/)  to access the web application.  
 
-##Description
+## Description
 *In this blog site:*
 
 There are Login and register options.
